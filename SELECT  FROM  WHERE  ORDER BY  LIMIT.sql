@@ -2,7 +2,6 @@ use sakila;
 
 /*
 DAY 1 - 20 BUSINESS QUESTIONS (Sakila customer table)
-WRITE YOUR QUERIES BELOW EACH QUESTION
 */
 
 -- 1. Show first 10 customers
